@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Admin — Marilia & Huesley</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <nav>
+  <div class="container inner">
+    <div class="brand"><span class="badge">M ♥ H</span> Marilia &amp; Huesley</div>
+    <div class="menu">
+      <a href="index.html" >Início</a>
+      <a href="cerimonia.html" >Cerimônia</a>
+      <a href="presentes.html" >Presentes</a>
+      <a class="button primary" href="rsvp.html">Confirmar Presença</a>
+    </div>
+  </div>
+</nav>
+  <main class="section" data-auth-guard="true">
+    <div class="container">
+      <div style="display:flex; justify-content:space-between; align-items:center; gap:12px;">
+        <h2>Painel Administrativo (Somente Noivos)</h2>
+        <a id="logout" class="button" href="#" style="white-space:nowrap;">Sair</a>
+      </div>
+      <p class="subtitle">Nesta versão inicial, os dados são simulados no front‑end. A API e o banco serão ligados quando ativarmos o checkout.</p>
+      <div style="overflow:auto; margin:18px 0;">
+        <table id="orders-table" style="width:100%; border-collapse: collapse;">
+          <thead>
+            <tr>
+              <th style="text-align:left; padding:10px; border-bottom:1px solid #e6e6e6;">Data</th>
+              <th style="text-align:left; padding:10px; border-bottom:1px solid #e6e6e6;">Presente</th>
+              <th style="text-align:left; padding:10px; border-bottom:1px solid #e6e6e6;">Valor</th>
+              <th style="text-align:left; padding:10px; border-bottom:1px solid #e6e6e6;">Convidado</th>
+              <th style="text-align:left; padding:10px; border-bottom:1px solid #e6e6e6;">Status</th>
+              <th style="text-align:left; padding:10px; border-bottom:1px solid #e6e6e6;">Recibo</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td colspan="6" style="padding:10px;">Carregando...</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </main>
+  <footer class="footer">
+  <div class="container">
+    todos os direitos reservados ®
+  </div>
+</footer>
+</body>
+</html>

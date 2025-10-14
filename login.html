@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Login — Área dos Noivos</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <nav>
+  <div class="container inner">
+    <div class="brand"><span class="badge">M ♥ H</span> Marilia &amp; Huesley</div>
+    <div class="menu">
+      <a href="index.html" >Início</a>
+      <a href="cerimonia.html" >Cerimônia</a>
+      <a href="presentes.html" >Presentes</a>
+      <a class="button primary" href="rsvp.html">Confirmar Presença</a>
+    </div>
+  </div>
+</nav>
+  <main class="section">
+    <div class="container" style="max-width:520px;">
+      <h2>Área dos Noivos</h2>
+      <p class="subtitle">Faça login para ver o <strong>Histórico</strong> e o <strong>Painel</strong>.</p>
+      <form id="login-form" class="grid" style="grid-template-columns: 1fr; gap: 12px;">
+        <label>Senha de acesso (passcode)<br>
+          <input name="passcode" type="password" required style="width:100%; padding:10px; border-radius:10px; border:1px solid #ddd;">
+        </label>
+        <button class="button primary" type="submit" style="width:fit-content;">Entrar</button>
+      </form>
+      <p id="login-msg" class="subtitle" style="margin-top:10px;"></p>
+      <p style="margin-top:18px;"><small>Dica: você pode alterar a senha em <code>assets/config.json</code>. Senha padrão: <code>MH-2025</code></small></p>
+    </div>
+  </main>
+  <footer class="footer">
+  <div class="container">
+    todos os direitos reservados ®
+  </div>
+</footer>
+  <script  src="assets/app.js"></script>
+</body>
+</html>

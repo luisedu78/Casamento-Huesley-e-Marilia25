@@ -1,0 +1,14 @@
+[
+  {
+    "id": "o-demo-001",
+    "gift_id": "g01",
+    "gift_name": "Jogo de copos de vidro para whisky (6 uni)",
+    "amount_cents": 10000,
+    "guest_name": "Convidado Demo",
+    "guest_email": "demo@example.com",
+    "status": "pago",
+    "gateway": "Link MP",
+    "created_at": "2025-10-07T20:48:37.411411",
+    "receipt_url": "#"
+  }
+]

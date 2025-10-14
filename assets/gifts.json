@@ -1,0 +1,258 @@
+[
+  {
+    "id": "g01",
+    "name": "Jogo de copos de vidro para whisky (6 uni)",
+    "price_cents": 10000,
+    "description": "Clássicos e robustos para whisky.",
+    "image_url": "assets/gift_images/jogo-de-copos-de-vidro-para-whisky-6-uni.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g02",
+    "name": "Kit aromatizador de ambiente + velas decorativas",
+    "price_cents": 10000,
+    "description": "Aroma + luz acolhedora com velas.",
+    "image_url": "assets/gift_images/kit-aromatizador-de-ambiente-velas-decorativas.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g03",
+    "name": "Conjunto de travesseiros NASA (2 un.)",
+    "price_cents": 15000,
+    "description": "Conforto ergonômico para um descanso perfeito.",
+    "image_url": "assets/gift_images/conjunto-de-travesseiros-nasa-2-un.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g04",
+    "name": "Difusor de aromas elétrico + essências",
+    "price_cents": 16000,
+    "description": "Aromas suaves para ambientes acolhedores.",
+    "image_url": "assets/gift_images/difusor-de-aromas-eletrico-essencias.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g05",
+    "name": "Jogo de taças de cristal para vinho (6 un.)",
+    "price_cents": 18000,
+    "description": "Cristal reluzente para brindar com estilo.",
+    "image_url": "assets/gift_images/jogo-de-tacas-de-cristal-para-vinho-6-un.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g06",
+    "name": "Kit fondue Tramontina com 10 peças",
+    "price_cents": 18000,
+    "description": "Noites aconchegantes e deliciosas.",
+    "image_url": "assets/gift_images/kit-fondue-tramontina-com-10-pecas.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g07",
+    "name": "Kit de toalhas de banho premium (5 peças)",
+    "price_cents": 20000,
+    "description": "Macia, volumosa e de alta absorção.",
+    "image_url": "assets/gift_images/kit-de-toalhas-de-banho-premium-5-pecas.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g08",
+    "name": "Sanduicheira e grill Mondial Inox",
+    "price_cents": 22000,
+    "description": "Praticidade para grelhar e dourar com rapidez.",
+    "image_url": "assets/gift_images/sanduicheira-e-grill-mondial-inox.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g09",
+    "name": "Porta-retrato digital simples (USB)",
+    "price_cents": 23000,
+    "description": "Memórias sempre por perto.",
+    "image_url": "assets/gift_images/porta-retrato-digital-simples-usb.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g10",
+    "name": "Aparelho de jantar 20 peças Oxford Daily",
+    "price_cents": 25000,
+    "description": "Resistência e beleza para todos os momentos.",
+    "image_url": "assets/gift_images/aparelho-de-jantar-20-pecas-oxford-daily.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g11",
+    "name": "Jogo de lençol casal 100% algodão 400 fios",
+    "price_cents": 28000,
+    "description": "Conforto 400 fios com toque acetinado.",
+    "image_url": "assets/gift_images/jogo-de-lencol-casal-100-algodao-400-fios.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g12",
+    "name": "Conjunto de panelas antiaderentes 5 peças Rochedo",
+    "price_cents": 30000,
+    "description": "Antiaderência durável para receitas do dia a dia.",
+    "image_url": "assets/gift_images/conjunto-de-panelas-antiaderentes-5-pecas-rochedo.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g13",
+    "name": "Liquidificador Oster 1400W",
+    "price_cents": 38000,
+    "description": "Potência e performance na cozinha.",
+    "image_url": "assets/gift_images/liquidificador-oster-1400w.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g14",
+    "name": "Cesto de piquenique completo (copos, pratos e talheres)",
+    "price_cents": 40000,
+    "description": "Perfeito para momentos ao ar livre.",
+    "image_url": "assets/gift_images/cesto-de-piquenique-completo-copos-pratos-e-talheres.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g15",
+    "name": "Assinatura de vinho mensal (3 meses)",
+    "price_cents": 45000,
+    "description": "Seleção especial entregue em casa.",
+    "image_url": "assets/gift_images/assinatura-de-vinho-mensal-3-meses.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g16",
+    "name": "Cafeteira Nespresso Essenza Mini + cápsulas",
+    "price_cents": 48000,
+    "description": "Cafés perfeitos, do espresso ao lungo.",
+    "image_url": "assets/gift_images/cafeteira-nespresso-essenza-mini-capsulas.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g17",
+    "name": "Conjunto de panelas Tramontina Paris 7 peças",
+    "price_cents": 52000,
+    "description": "Conjunto versátil e resistente.",
+    "image_url": "assets/gift_images/conjunto-de-panelas-tramontina-paris-7-pecas.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g18",
+    "name": "Aspirador de pó vertical sem fio Philco Smart Turbo",
+    "price_cents": 60000,
+    "description": "Mobilidade e autonomia para limpar tudo.",
+    "image_url": "assets/gift_images/aspirador-de-po-vertical-sem-fio-philco-smart-turbo.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g19",
+    "name": "Jogo de panelas cerâmicas Brinox 5 peças",
+    "price_cents": 60000,
+    "description": "Cozimento uniforme, fácil limpeza.",
+    "image_url": "assets/gift_images/jogo-de-panelas-ceramicas-brinox-5-pecas.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g20",
+    "name": "Faqueiro inox Tramontina Laguna 101 peças",
+    "price_cents": 65000,
+    "description": "Elegância para servir bem.",
+    "image_url": "assets/gift_images/faqueiro-inox-tramontina-laguna-101-pecas.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g21",
+    "name": "Jogo de cama casal 600 fios + cobre-leito",
+    "price_cents": 70000,
+    "description": "Luxo e maciez incomparáveis.",
+    "image_url": "assets/gift_images/jogo-de-cama-casal-600-fios-cobre-leito.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g22",
+    "name": "Tapete decorativo grande 2x3m",
+    "price_cents": 75000,
+    "description": "Textura macia e acabamento premium.",
+    "image_url": "assets/gift_images/tapete-decorativo-grande-2x3m.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g23",
+    "name": "Máquina de café Dolce Gusto Genio S Plus",
+    "price_cents": 85000,
+    "description": "Bebidas variadas com praticidade.",
+    "image_url": "assets/gift_images/maquina-de-cafe-dolce-gusto-genio-s-plus.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g24",
+    "name": "Micro-ondas Electrolux 31L espelhado",
+    "price_cents": 95000,
+    "description": "Praticidade com design moderno.",
+    "image_url": "assets/gift_images/micro-ondas-electrolux-31l-espelhado.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g25",
+    "name": "Batedeira planetária Arno Deluxe",
+    "price_cents": 100000,
+    "description": "Precisão para massas e cremes.",
+    "image_url": "assets/gift_images/batedeira-planetaria-arno-deluxe.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g26",
+    "name": "Jogo de malas de viagem (3 tamanhos)",
+    "price_cents": 110000,
+    "description": "Durabilidade para viagens.",
+    "image_url": "assets/gift_images/jogo-de-malas-de-viagem-3-tamanhos.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g27",
+    "name": "Cadeira de balanço moderna de madeira natural",
+    "price_cents": 120000,
+    "description": "Design aconchegante para relaxar.",
+    "image_url": "assets/gift_images/cadeira-de-balanco-moderna-de-madeira-natural.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g28",
+    "name": "Purificador de água Electrolux PE11B",
+    "price_cents": 130000,
+    "description": "Água pura e gelada sempre.",
+    "image_url": "assets/gift_images/purificador-de-agua-electrolux-pe11b.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g29",
+    "name": "Fritadeira Air Fryer Philips Walita XXL",
+    "price_cents": 140000,
+    "description": "Crocrância com menos óleo.",
+    "image_url": "assets/gift_images/fritadeira-air-fryer-philips-walita-xxl.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g30",
+    "name": "Aspirador robô Midea Smart 300",
+    "price_cents": 150000,
+    "description": "Limpeza automática e inteligente.",
+    "image_url": "assets/gift_images/aspirador-robo-midea-smart-300.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g31",
+    "name": "Smart TV LG 43” 4K UHD",
+    "price_cents": 190000,
+    "description": "Imagem 4K e apps de streaming.",
+    "image_url": "assets/gift_images/smart-tv-lg-43-4k-uhd.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  },
+  {
+    "id": "g32",
+    "name": "Enxoval completo casal (lençol, edredom, travesseiros",
+    "price_cents": 190000,
+    "description": "Conforto ergonômico para um descanso perfeito.",
+    "image_url": "assets/gift_images/enxoval-completo-casal-lencol-edredom-travesseiros.jpeg",
+    "mp_link": "https://link.mercadopago.com.br/casamentohuesley"
+  }
+]
