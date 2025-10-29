@@ -6,7 +6,7 @@ function startCountdown() {
   const el = $id('counter');
   if (!el) return;
   function tick() {
-    const target = new Date('2025-12-13T17:00:00-03:00').getTime();
+    const target = new Date('2025-12-13T16:30:00-03:00').getTime();
     const now = Date.now();
     let diff = target - now;
     if (diff <= 0) {
